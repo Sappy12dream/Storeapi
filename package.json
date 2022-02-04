@@ -1,0 +1,20 @@
+{
+  "name": "storeapi",
+  "version": "1.0.0",
+  "description": "api for a store.",
+  "main": "App.js",
+  "scripts": {
+    "start": "nodeman App.js"
+  },
+  "author": "sappy12dream",
+  "license": "ISC",
+  "devDependencies": {
+    "nodeman": "^1.1.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "express-async-errors": "^3.1.1",
+    "mongoose": "^6.2.0"
+  }
+}
